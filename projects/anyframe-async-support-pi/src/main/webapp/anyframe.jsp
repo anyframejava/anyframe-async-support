@@ -29,13 +29,13 @@
 	                            	<li><a href="<c:url value='/asyncSupportMovieFinderDeferredResult.do?method=asyncEnter'/>">Async-Support 1.0.0 - DeferredResult</a></li>
 	                            <!--async-support-configuration-END-->
 <!--logging-configuration-START-->
-<li>Logging 1.1.0</li>
+<li>Logging 1.1.1-SNAPSHOT</li>
 <!--logging-configuration-END-->
 <!--spring-configuration-START-->
-<li>Spring 1.1.0</li>
+<li>Spring 1.1.1-SNAPSHOT</li>
 <!--spring-configuration-END-->
 <!--datasource-configuration-START-->
-<li>Datasource 1.1.0</li>
+<li>Datasource 1.1.1-SNAPSHOT</li>
 <!--datasource-configuration-END-->
                         </ul>
                     </td>
